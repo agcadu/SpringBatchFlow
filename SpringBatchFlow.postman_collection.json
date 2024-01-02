@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "02e57e42-c5b7-4f8e-8c61-f64d23c36ca9",
+		"name": "SpringBatchFlow",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "24393158",
+		"_collection_link": "https://lunar-crater-546608.postman.co/workspace/Team-Workspace~09b7adc2-4999-4880-8509-cbaed4e92cc0/collection/24393158-02e57e42-c5b7-4f8e-8c61-f64d23c36ca9?action=share&source=collection_link&creator=24393158"
+	},
+	"item": [
+		{
+			"name": "transfer",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
